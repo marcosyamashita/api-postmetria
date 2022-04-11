@@ -44,9 +44,9 @@ php artisan make:migration create_tables
 
 ### Consumo da API
 
-![print](https://ibb.co/PtspQcv)
+![print](https://github.com/marcosyamashita/api-postmetria/blob/ff9f422518dd9e83d6d3a22c51d279d2f434db3d/public/img/tela1.png)
 
-![print](https://ibb.co/vdCgJXD)
+![print](hhttps://github.com/marcosyamashita/api-postmetria/blob/ff9f422518dd9e83d6d3a22c51d279d2f434db3d/public/img/tela02.png)
 
 ### Servidor API Rest
 
@@ -57,5 +57,5 @@ http://localhost:8001/api/cep
 ```
 Como já foi criado a rota ele vai trazer tudo que estiver no banco de dados.
 
-![print](https://ibb.co/pr0sgnq)
+![print](https://github.com/marcosyamashita/api-postmetria/blob/ff9f422518dd9e83d6d3a22c51d279d2f434db3d/public/img/api_rest.png)
 
