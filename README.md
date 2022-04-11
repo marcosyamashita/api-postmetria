@@ -46,7 +46,7 @@ php artisan make:migration create_tables
 
 ![print](https://github.com/marcosyamashita/api-postmetria/blob/ff9f422518dd9e83d6d3a22c51d279d2f434db3d/public/img/tela1.png)
 
-![print](hhttps://github.com/marcosyamashita/api-postmetria/blob/ff9f422518dd9e83d6d3a22c51d279d2f434db3d/public/img/tela02.png)
+![print](https://github.com/marcosyamashita/api-postmetria/blob/ff9f422518dd9e83d6d3a22c51d279d2f434db3d/public/img/tela02.png)
 
 ### Servidor API Rest
 
